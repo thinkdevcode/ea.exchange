@@ -23,10 +23,10 @@ I ended up having to use [StopWatch](http://msdn.microsoft.com/en-us/library/sys
 
 # Benchmarks
 
-Dev laptop: i7-3632QM @ 2.2GHz & 16GB: 
-Run over 10 seconds. 
-Orders submitted: *1,505,542* or **150,554** orders per second 
-Trades completed: *1,010,481* or **101,048** trades per second
+- Dev laptop: i7-3632QM @ 2.2GHz & 16GB: 
+- Run over 10 seconds. 
+- Orders submitted: *1,505,542* or **150,554** orders per second 
+- Trades completed: *1,010,481* or **101,048** trades per second
 
 # In Summary
 
